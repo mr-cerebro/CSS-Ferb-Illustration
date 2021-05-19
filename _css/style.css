@@ -1,9 +1,11 @@
+/* corpo */
 body {
     background-color: #4c2e82;
     padding: 0;
     margin: 0;
 }
 
+/* interface */
 .container {
     height: 350px;
     width: 350px;
@@ -15,6 +17,7 @@ body {
     margin: auto;
 }
 
+/* rosto */
 .face {
     height: 0;
     width: 45px;
@@ -26,7 +29,8 @@ body {
     left: 140px;
 }
 
-.eyer-l {
+/* olho esquerdo */
+.eye-l {
     height: 35px;
     width: 29px;
     background-color: white;
@@ -37,7 +41,8 @@ body {
     border: 1px solid black;
 }
 
-.eyer-b1 {
+/* olho esquerdo-1 */
+.eye-l1 {
     background-color: black;
     height: 6px;
     width: 6px;
@@ -47,6 +52,7 @@ body {
     left: 8px;
 }
 
+/* nariz */
 .nose {
     background-color: #fee1c3;
     height: 45px;
@@ -57,6 +63,7 @@ body {
     border-radius: 10px 0 0 10px;
 }
 
+/* orelha */
 .ear {
     background-color: #fee1c3;
     height: 22px;
@@ -67,6 +74,7 @@ body {
     border-radius: 0 20px 20px 0;
 }
 
+/* lábio */
 .lip {
     height: 0;
     width: 0;
@@ -78,6 +86,7 @@ body {
     bottom: 162px;
 }
 
+/* cabelo */
 .hair {
     position: relative;
     bottom: 304px;
@@ -139,7 +148,8 @@ body {
     transform: rotate(-70deg);
 }
 
-.eyer {
+/* olho direito */
+.eyer-r {
     height: 28px;
     width: 25px;
     background-color: white;
@@ -149,7 +159,8 @@ body {
     border: 1px solid black;
 }
 
-.eyer-b2 {
+/* olho direito-1 */
+.eyer-r1 {
     background-color: black;
     height: 6px;
     width: 6px;

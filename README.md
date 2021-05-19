@@ -11,6 +11,6 @@ HTML5 para definir as tags.
 CSS3 para esterilizar o desenho.
 ~~~
 
-Facebook | Instagram | Rocketseat | Instagram |
-:--------- | :------: |  :------: | -------:
-[Adicionar](https://www.facebook.com/paulo1pessoa/) | [Seguir](https://www.instagram.com/paulopessoa_oficial/) | [Adicionar](https://app.rocketseat.com.br/me/paulo-pessoa-02219) | [Seguir](https://twitter.com/PauloPe65041263)
+Facebook | Linkedln | Instagram | Rocketseat | Twitter |
+:--------- | :------: |  :------: | :------: | -------:
+[Adicionar](https://www.facebook.com/paulo1pessoa/) | [Conectar](https://www.linkedin.com/in/paulo-pessoa-2777841b2/) | [Seguir](https://www.instagram.com/paulopessoa_oficial/) | [Adicionar](https://app.rocketseat.com.br/me/paulo-pessoa-02219) | [Seguir](https://twitter.com/PauloPe65041263)

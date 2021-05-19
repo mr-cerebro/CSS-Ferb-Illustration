@@ -2,9 +2,9 @@
 ## CSS Art
 
 ~~~html
-Usei a tecnologia HTML5 para definir as tags.
+HTML5 para definir as tags.
 ~~~
 
 ~~~css
-Usei a tecnologia CSS3 para esterilizar o desenho.
+CSS3 para esterilizar o desenho.
 ~~~
